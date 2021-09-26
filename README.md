@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aman Patial.
+- 👀 I’m interested in API Automation Testing.
+- 🌱 I’m currently learning RestAssured, JSON-Simple, Apache POI, TEST-NG.
+- 💞️ I’m looking to collaborate to prepare API Automation Engine.
+- 📫 patialaman14@gmail.com or amanpatial14@gmail.com
